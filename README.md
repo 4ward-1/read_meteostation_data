@@ -1,2 +1,2 @@
 # read_meteostation_data
-Reading and plotting data recieved by meteostation 
+Чтение и визуализация данных, полученных метеостанцией в режиме постобработки
